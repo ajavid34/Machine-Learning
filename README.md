@@ -1,4 +1,7 @@
 # Machine-Learning
+This repository contains my Artificial Intelligence course computer assignments at the University of Tehran.
+
+
  Homework #1 [Bayes Optimal Classifier, Naïve Bayes Classifier, MLE, MAP Estimation] 
  
  Homework #2 [Linear Regression, Logistic Regression, KNN, Parzen Density Estimation] 
