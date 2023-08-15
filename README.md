@@ -1,5 +1,5 @@
 # Machine-Learning
-This repository contains my Artificial Intelligence course computer assignments at the University of Tehran.
+This repository contains my Machine Learning course assignments at the University of Tehran.
 
 
  Homework #1 [Bayes Optimal Classifier, Naïve Bayes Classifier, MLE, MAP Estimation] 
